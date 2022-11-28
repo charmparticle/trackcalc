@@ -28,7 +28,7 @@ or with sponge:
 
     trackcalc tracks.txt | sponge tracks.txt
 
-You can use my other tool, albumsplit, to use this tracks file to split up an mp3 file into tracks.
+You can use my other tool, [albumsplit](https://github.com/charmparticle/albumsplit) to use this tracks file to split up an mp3 file into tracks.
 
 here is a vim macro I use to reformat tracks:
 
