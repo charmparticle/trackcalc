@@ -1,5 +1,9 @@
 **trackcalc**
 
+installation:
+
+    pip3 install trackcalc
+
 trackcalc is a tool to help you convert a list of tracks like this:
 
 01:33 first track
