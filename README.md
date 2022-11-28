@@ -23,6 +23,10 @@ You can then redirect stdout into a file, or use sponge to update your tracks fi
 ie:
 
     trackcalc tracks.txt > tracks_o.txt
+    
+or with sponge:
+
+    trackcalc tracks.txt | sponge tracks.txt
 
 You can use my other tool, albumsplit, to use this tracks file to split up an mp3 file into tracks.
 
